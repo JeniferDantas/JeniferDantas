@@ -4,7 +4,7 @@
 
 <p style="font-family: 'Courier New', Courier, monospace;">"Seja curioso. Leia bastante. Experimente coisas novas. Acredito que o que muitos chamam de inteligência é, na verdade, apenas curiosidade." — Aaron Swartz</p>
 
-## 🛠️ Technologies and Tools
+## 🤖 Technologies and Tools
 
 ```mermaid
 mindmap
@@ -36,7 +36,7 @@ mindmap
 
 ```
 
-## GitHub Stats <br>
+## 📊 GitHub Stats <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeniferDantas&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" alt="Jenifer Dantas GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeniferDantas&layout=compact&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" />
